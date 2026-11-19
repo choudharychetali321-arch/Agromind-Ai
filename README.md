@@ -6,6 +6,10 @@ AgroMind AI is a lightweight Streamlit agriculture website for soil screening, c
 >
 > **Deployment status:** The app includes lightweight local authentication and is ready for a small demo deployment. Production use still needs email verification/password recovery, HTTPS, and a managed database. Crop/disease models need trained artifacts, and the Gemini assistant needs a secret key.
 
+## Live demo
+
+Open the deployed app at [agromind-ai-farm.streamlit.app](https://agromind-ai-farm.streamlit.app/). Create an account on the sign-in page to use it.
+
 ## Development progress
 
 - [x] Phase 1 — Project setup and dashboard.
